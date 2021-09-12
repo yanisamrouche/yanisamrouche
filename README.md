@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yanis
--i'm an I am a computer science student specializing in Software Engineering
+- i'm an I am a computer science student specializing in Software Engineering
 - 👀 I’m interested in many fields such as : Web & mobile developpement ,Software engineering , Artificial Intelligence and Cybersecurity...
 
 
